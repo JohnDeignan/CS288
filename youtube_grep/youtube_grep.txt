@@ -1,3 +1,9 @@
+--------------------------------------------------------------------
+INDEX.HTML NOT PROVIDED IN DIRECTORY. MASSIVE AMOUNT OF WASTED
+SPACE. THE CODE AVAILABLE WILL WORK WITH A YOUTUBE PAGE DOWNLOADED
+AT ANY TIME.
+--------------------------------------------------------------------
+
 1. Download the index page from you tube using "wget -O index.html url_here"
 2. Construct a text table with five columns: user, views, time (duration), id, title
 Use only grep, expr, cut and paste commands with loops, as discussed in class. For example, "grep views index.html" will find 
