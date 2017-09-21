@@ -1,0 +1,7 @@
+Write a Bash script to download the stock web page every minute for an hour. Make sure you do this between 9:30 am and 4 pm when 
+the values change. Your bash script will call a python program.
+
+Complete the injection part which injects data into MySql database.
+
+Write a PHP script to retrieve data from the mysql database and present them on a browser. The tables will be clickable and 
+sortable like the ones I showed in class. You need to install Apache server if not already installed
