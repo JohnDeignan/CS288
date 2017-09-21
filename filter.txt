@@ -1,0 +1,6 @@
+Write a Bash script, filter.sh, which prints those files/directories that have the size greater than the average file size of 
+the directory. Suppose for example that the directory /my/dir has five files/directories with size in parentheses " a (100) 
+b (10) c (100) d (100) e (20)", your program "filter.sh /my/dir" will list "a c d" since the size of each of the three 
+files/directories "a c d" is greater than the average file size of 66. Use three functions: main, average, and filter, where 
+main calls average and filter, and average computes the average file size of a directory and filter filters out those that
+have less than the average.
