@@ -1,0 +1,6 @@
+Write a Bash script, insert-sort.sh, which sorts a list of command line parameters in ascending order. For example, your 
+command will look something like: 
+
+$ insert-sort.sh 7 2 3 9 -1 and type enter.
+
+Your program will return: -1 2 3 7 9
